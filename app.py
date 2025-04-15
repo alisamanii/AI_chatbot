@@ -3,6 +3,7 @@ import google.generativeai as genai
 from translate import Translator
 translator=Translator(to_lang="es")
 
+BOT_TOKEN ="your_token_bot"
 bot=telebot.TeleBot(BOT_TOKEN)
 
 Api="your_API_Gemeni" 
