@@ -1,4 +1,5 @@
 # AI_chatbot
+<img width="736" height="477" alt="chatbot" src="https://github.com/user-attachments/assets/8d55bb0c-9d46-48a3-a2b8-d56e6ba0e19a" />
 
 ## 🤖 Telegram AI ChatBot Powered by Google Gemini
 
